@@ -12,7 +12,7 @@
 
 ##
 
-- 🔭 Atualmente trabalhando com Infraestrutura e Administração de redes
+- 🔭 Atualmente trabalhando com Infraestrutura e Administração de redes / Servidores Linux / monitoramento de servidores com Zabbix e Grafana
 - 🌱 Estudando Engenharia de Software
 
 ##
